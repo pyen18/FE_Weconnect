@@ -1,4 +1,11 @@
 @import "tailwindcss";
+
+@theme {
+  --color-dark-100: #4B465C;
+  --color-dark-200: #F8F7FA;
+  --font-size-10: 10px;
+}
+
 body {
   font-family: 'Public Sans Variable', sans-serif;
 }
